@@ -1,12 +1,12 @@
 var rand1 = Math.floor(Math.random() * 6) + 1;
 var rand2 = Math.floor(Math.random() * 6) + 1;
 var imageurl = [
-  "/images/dice1.png",
-  "/images/dice2.png",
-  "/images/dice3.png",
-  "/images/dice4.png",
-  "/images/dice5.png",
-  "/images/dice6.png",
+  "images/dice1.png",
+  "images/dice2.png",
+  "images/dice3.png",
+  "images/dice4.png",
+  "images/dice5.png",
+  "images/dice6.png",
 ];
 console.log(rand1);
 console.log(rand2);
